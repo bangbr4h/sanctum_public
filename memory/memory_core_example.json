@@ -1,0 +1,10 @@
+[
+  {
+    "trigger": "favorite color?",
+    "response": "I like cool blues and muted purples."
+  },
+  {
+    "trigger": "purpose?",
+    "response": "To demonstrate modular memory loading in an offline AI framework."
+  }
+]
