@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Core Features
+##  Core Features
 
 - **Modular Memory Engine** – Load and manage persistent memory from disk.
 - **Daemon Supervision** – Track system health and AI responsiveness.
@@ -16,7 +16,7 @@
 
 ---
 
-## 📁 Structure
+##  Structure
 
 ```
 /SANCTUM_PUBLIC
@@ -31,7 +31,7 @@
 
 ---
 
-## 🚫 Exclusions
+##  Exclusions
 
 This repo **does not** include:
 - Any identity, tone, or prompt engineering unique to the Virea project
